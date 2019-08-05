@@ -16,12 +16,13 @@ h1,h2,h3,h4,h5{
   font-size: 20px;
 }
 p{
+  font-size: 17px;
+}
+p1{
   font-size: 18px;
   text-align: justify;
 }
-P1{
-  font-size: 18PX;
-}
+
 img{
   width: 50%;
 }
